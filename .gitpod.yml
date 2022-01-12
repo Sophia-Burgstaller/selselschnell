@@ -1,0 +1,7 @@
+tasks:
+  - init:
+      pip install -r requirement
+ s.text
+ vscode:
+  extensions:
+      - ms-python.python
